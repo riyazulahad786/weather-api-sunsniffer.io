@@ -1,0 +1,44 @@
+.wetherBg{
+  background: url("https://w0.peakpx.com/wallpaper/370/486/HD-wallpaper-beautiful-natural-beautiful-nice-weather-thanks-top.jpg");
+  height: 40vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.heading{
+  color:white;
+  font-weight: 700;
+}
+.weathorResultBox{
+  margin: auto;
+  width: 600;
+  height: 400;
+  background-color: rgb(42, 128, 204);
+}
+.weatherIcon{
+  margin-top: 2rem;
+  width:200;
+  heigth:60;
+}
+.weathorCity{
+  font-size: 65;
+}
+.weathorTemp{
+ font-size: 90;
+ font-weight: 700;
+}
+.week{
+ display: flex;
+ background-color: antiquewhite;
+ height: 40vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.day{
+  
+}
